@@ -1,0 +1,16 @@
+.order-form, h1 {
+  margin-left: 40%;
+}
+
+#information {
+  border: 5px solid black;
+  width: 25%;
+  text-align: center;
+  float: center;
+  bottom: 0;
+}
+
+#result {
+  text-align: center;
+  width: 100%;
+}
